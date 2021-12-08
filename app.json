@@ -4,7 +4,8 @@
   "repository": "https://github.com/iyungrozy/Alphab0t7",
   "logo": "https://c.top4top.io/p_2069qnvob1.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
-  "buildpacks": [{
+  "buildpacks": [
+  {
     "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
   }, {
     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
